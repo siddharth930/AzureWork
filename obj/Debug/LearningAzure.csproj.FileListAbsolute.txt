@@ -1,0 +1,7 @@
+C:\Users\Siddharth\source\repos\LearningAzure\bin\Debug\LearningAzure.exe.config
+C:\Users\Siddharth\source\repos\LearningAzure\bin\Debug\LearningAzure.exe
+C:\Users\Siddharth\source\repos\LearningAzure\bin\Debug\LearningAzure.pdb
+C:\Users\Siddharth\source\repos\LearningAzure\obj\Debug\LearningAzure.csprojAssemblyReference.cache
+C:\Users\Siddharth\source\repos\LearningAzure\obj\Debug\LearningAzure.csproj.CoreCompileInputs.cache
+C:\Users\Siddharth\source\repos\LearningAzure\obj\Debug\LearningAzure.exe
+C:\Users\Siddharth\source\repos\LearningAzure\obj\Debug\LearningAzure.pdb
